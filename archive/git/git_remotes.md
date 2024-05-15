@@ -10,14 +10,14 @@ Remote repositories are the versions of your project that are not on your local 
 
 By the end of this you should be able to:
 
-* Explain why we use remote repositories
-* Fork and clone a repository to your machine
-* Add a remote to a repository
-* View remotes on a local project
-* Remove a remote from a repository
-* Pull changes from a remote branch
-* Push changes to a remote branch
-* Submit a pull request to a remote repository that doesn't belong to you
+- Explain why we use remote repositories
+- Fork and clone a repository to your machine
+- Add a remote to a repository
+- View remotes on a local project
+- Remove a remote from a repository
+- Pull changes from a remote branch
+- Push changes to a remote branch
+- Submit a pull request to a remote repository that doesn't belong to you
 
 # Introduction to Remotes
 GitHub has an excellent definition for remotes: "A remote URL is Git's fancy way of saying 'the place where your code is stored.'" Remotes allow us to work in tandem with other developers by giving us central locations to store and share different versions of our projects.
